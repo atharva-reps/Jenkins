@@ -29,7 +29,7 @@ class Stack:
 
 stack = Stack()
 stack.push(14)
-stack.push(25)
+stack.push(28)
 stack.push(53)
 stack.display()
 print("Top element is ", stack.peek())
