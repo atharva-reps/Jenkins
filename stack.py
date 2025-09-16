@@ -28,7 +28,7 @@ class Stack:
         print("Stack elements: ", self.stack)
 
 stack = Stack()
-stack.push(10)
+stack.push(14)
 stack.push(25)
 stack.push(53)
 stack.display()
